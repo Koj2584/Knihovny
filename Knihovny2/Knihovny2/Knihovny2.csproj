@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="KnihovnaTrid">
+      <HintPath>C:\Users\vomelaj.05\source\repos\KnihovnaTrid\KnihovnaTrid\KnihovnaTrid\obj\Debug\net6.0\KnihovnaTrid.dll</HintPath>
+    </Reference>
+    <Reference Include="RetezUtil">
+      <HintPath>..\..\RetezUtil\RetezUtil\obj\Debug\net6.0\RetezUtil.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

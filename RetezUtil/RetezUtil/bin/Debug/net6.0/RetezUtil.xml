@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RetezUtil</name>
+    </assembly>
+    <members>
+        <member name="F:RetezUtil.Minus.s">
+            <summary>
+            Třída pro odečtení stringu
+            </summary>
+        </member>
+        <member name="M:RetezUtil.Retezec.Smaz(System.String)">
+            <summary>
+            Smaže všechny číslice ze stringu.
+            </summary>
+            <param name="x">Řetězec pro vymazání.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

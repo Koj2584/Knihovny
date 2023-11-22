@@ -1,0 +1,13 @@
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\bin\Debug\net6.0\RetezUtil.deps.json
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\bin\Debug\net6.0\RetezUtil.dll
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\bin\Debug\net6.0\RetezUtil.pdb
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\bin\Debug\net6.0\RetezUtil.xml
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\obj\Debug\net6.0\RetezUtil.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\obj\Debug\net6.0\RetezUtil.AssemblyInfoInputs.cache
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\obj\Debug\net6.0\RetezUtil.AssemblyInfo.cs
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\obj\Debug\net6.0\RetezUtil.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\obj\Debug\net6.0\RetezUtil.dll
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\obj\Debug\net6.0\refint\RetezUtil.dll
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\obj\Debug\net6.0\RetezUtil.xml
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\obj\Debug\net6.0\RetezUtil.pdb
+G:\Dokumenty\Csharp\RetezUtil\RetezUtil\obj\Debug\net6.0\ref\RetezUtil.dll
