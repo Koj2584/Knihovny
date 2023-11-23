@@ -11,7 +11,7 @@
         {
             string y = "0123456789";
             foreach(char i in y)
-                x.Replace(i, 'X');
+                x = x.Replace(i.ToString(), "");
             return x;
         }
     }

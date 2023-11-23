@@ -13,7 +13,7 @@ namespace Knihovny2
         {
             try
             {
-                textBox1.Text = Retezec.Smaz("5d5d5d");
+                textBox1.Text = Retezec.Smaz(textBox1.Text);
             } catch { }
             try
             {

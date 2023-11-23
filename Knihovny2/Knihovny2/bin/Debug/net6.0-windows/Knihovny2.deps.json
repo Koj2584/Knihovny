@@ -8,19 +8,10 @@
     ".NETCoreApp,Version=v6.0": {
       "Knihovny2/1.0.0": {
         "dependencies": {
-          "KnihovnaTrid": "1.0.0.0",
           "RetezUtil": "1.0.0.0"
         },
         "runtime": {
           "Knihovny2.dll": {}
-        }
-      },
-      "KnihovnaTrid/1.0.0.0": {
-        "runtime": {
-          "KnihovnaTrid.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
         }
       },
       "RetezUtil/1.0.0.0": {
@@ -36,11 +27,6 @@
   "libraries": {
     "Knihovny2/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "KnihovnaTrid/1.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
