@@ -24,3 +24,4 @@ C:\Users\vomelaj.05\source\repos\Knihovny\RetezUtil\RetezUtil\obj\Debug\net6.0\r
 C:\Users\vomelaj.05\source\repos\Knihovny\RetezUtil\RetezUtil\obj\Debug\net6.0\RetezUtil.xml
 C:\Users\vomelaj.05\source\repos\Knihovny\RetezUtil\RetezUtil\obj\Debug\net6.0\RetezUtil.pdb
 C:\Users\vomelaj.05\source\repos\Knihovny\RetezUtil\RetezUtil\obj\Debug\net6.0\ref\RetezUtil.dll
+C:\Users\vomelaj.05\source\repos\Knihovny\RetezUtil\RetezUtil\obj\Debug\net6.0\RetezUtil.csproj.AssemblyReference.cache

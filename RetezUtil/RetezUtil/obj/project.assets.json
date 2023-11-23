@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vomelaj.05\\source\\repos\\Knihovny\\RetezUtil\\RetezUtil\\RetezUtil.csproj",
+      "projectUniqueName": "C:\\Users\\vomelaj.05\\Source\\Repos\\Knihovny\\RetezUtil\\RetezUtil\\RetezUtil.csproj",
       "projectName": "RetezUtil",
-      "projectPath": "C:\\Users\\vomelaj.05\\source\\repos\\Knihovny\\RetezUtil\\RetezUtil\\RetezUtil.csproj",
+      "projectPath": "C:\\Users\\vomelaj.05\\Source\\Repos\\Knihovny\\RetezUtil\\RetezUtil\\RetezUtil.csproj",
       "packagesPath": "C:\\Users\\vomelaj.05\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vomelaj.05\\source\\repos\\Knihovny\\RetezUtil\\RetezUtil\\obj\\",
+      "outputPath": "C:\\Users\\vomelaj.05\\Source\\Repos\\Knihovny\\RetezUtil\\RetezUtil\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

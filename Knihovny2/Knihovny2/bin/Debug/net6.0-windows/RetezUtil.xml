@@ -14,7 +14,13 @@
             Smaže všechny číslice ze stringu.
             </summary>
             <param name="x">Řetězec pro vymazání.</param>
-            <returns></returns>
+            <returns>String</returns>
+        </member>
+        <member name="M:RetezUtil.Retezec.Zobraz">
+            <summary>
+            Zobrazí výpis
+            </summary>
+            <returns>String</returns>
         </member>
     </members>
 </doc>

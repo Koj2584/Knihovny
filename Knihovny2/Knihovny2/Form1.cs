@@ -22,5 +22,10 @@ namespace Knihovny2
                 label2.Text = x - y;
             } catch (Exception ex) { }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label3.Text = Retezec.Zobraz();
+        }
     }
 }
